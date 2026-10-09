@@ -1,6 +1,6 @@
 # StellarMesh ☄️ | Synthetic Asteroid Rendering Pipeline & Dataset
 
-![StellarMesh Preview]([https://github.com/StellarMesh-Labs/StellarMesh-Asteroid-Dataset-Pipeline/blob/main/3000%20gumroad%20cover.png])
+![StellarMesh Preview](3000%20gumroad%20cover.png)
 
 A fully headless Python-Blender rendering architecture designed to procedurally generate physically accurate, multi-modal synthetic datasets for aerospace computer vision, OpNav (Optical Navigation), and 3D shape reconstruction research.
 
@@ -8,9 +8,9 @@ A fully headless Python-Blender rendering architecture designed to procedurally 
 
 We offer a free 600-mesh sample for independent researchers, as well as the complete 3,000+ mesh dataset and the underlying Python/Blender pipeline toolkit for commercial and enterprise applications.
 
-* **[Free 600-Mesh Sample Dataset (Kaggle) ➔]([https://www.kaggle.com/datasets/hassaanfazal/astrovision-3d-asteroid-and-photometry-dataset])**
-* **[Get the Full 3,000+ Mesh Dataset (Gumroad) ➔]([https://stellarmeshlabs.gumroad.com/l/asteroid_dataset])**
-* **[Download the Rendering Pipeline & Toolkit (Gumroad) ➔]([https://stellarmeshlabs.gumroad.com/l/rendering_pipeline])**
+* **[Free 600-Mesh Sample Dataset (Kaggle) ➔](https://www.kaggle.com/datasets/hassaanfazal/astrovision-3d-asteroid-and-photometry-dataset)**
+* **[Get the Full 3,000+ Mesh Dataset (Gumroad) ➔](https://stellarmeshlabs.gumroad.com/l/asteroid_dataset)**
+* **[Download the Rendering Pipeline & Toolkit (Gumroad) ➔](https://stellarmeshlabs.gumroad.com/l/rendering_pipeline)**
 
 ## ⚙️ Pipeline Features
 
